@@ -15,7 +15,7 @@ project_entries:
 
   - title: ShitDick
     url: shitdick
-    desc: Projects are shown in card layout
+    desc: ShitDick is a family of joke "trojans" that I develop to mess around with in my virtual machines. Probably won't upload it anywhere so no one breaks a PC with it, but I'll probably post about it or something anyway.
     highlight: WIP
 
 old_project_entries:
@@ -28,10 +28,10 @@ footer_entries:
   - title: Credit to abhinav for the Moonwalk theme the site uses
     url: https://www.abhinav.co
 
-  - title: twitter
+  - title: my awful twitter
     url: https://twitter.com/GreatK0rnholio
 
-  - title: github
+  - title: my awful github
     url: https://github.com/TheGreatC0deholio
 
   - title: feed
