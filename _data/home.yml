@@ -19,7 +19,7 @@ project_entries:
     highlight: WIP
 
 old_project_entries:
-  - title: Soopr
+  - title: Flicks Reborn
     url: https://github.com/TheGreatC0deholio/flicks-reborn
     desc: An old attempt to resurrect a utility for those old-ass Pebble smartwatches. I paid for a JS course specifically so I could do this, then my Pebble Time broke soon after so I kinda just forgot about it.
     highlight: CRINGE
