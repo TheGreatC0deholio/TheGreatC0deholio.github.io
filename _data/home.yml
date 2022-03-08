@@ -1,67 +1,38 @@
 navbar_entries:
-  - title: about
+  - title: fun k0rnholio facts
     url: about
 
-  - title: blog
+  - title: cringe blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: go home you're drunk
+    url: https://thegreatc0deholio.github.io
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: OpenENDEC
+    url: openendec-overview
+    desc: OpenENDEC is a project focused on making Emergency Alert System capabilities accessible to all broadcasters of any size, as well as hobbyists.
 
-  - title: Project 2
-    url: overview-post
+  - title: ShitDick
+    url: shitdick
     desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+    url: https://github.com/TheGreatC0deholio/flicks-reborn
+    desc: An old attempt to resurrect a utility for those old-ass Pebble smartwatches. I paid for a JS course specifically so I could do this, then my Pebble Time broke soon after so I kinda just forgot about it.
+    highlight: CRINGE
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Credit to abhinav for the Moonwalk theme the site uses
     url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/GreatK0rnholio
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/TheGreatC0deholio
 
   - title: feed
     url: feed.xml
